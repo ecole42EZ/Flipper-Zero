@@ -2,4 +2,6 @@
 Fihciers et firmware pour Flipper Zero
 
 Installation :
-k
+
+1. Premierement, installer QFlipper.
+   QFlipper est le logiciel officiel du Flipper Zero
