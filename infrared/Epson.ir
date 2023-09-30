@@ -1,0 +1,74 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: On_off
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 90 6F 00 00
+# 
+name: Menu
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 9A 65 00 00
+# 
+name: Sour_search
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 8C 73 00 00
+# 
+name: Up
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: B0 4F 00 00
+# 
+name: Down
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: B2 4D 00 00
+# 
+name: Right
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: B1 4E 00 00
+# 
+name: Left
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: B3 4C 00 00
+# 
+name: Freeze
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 92 6D 00 00
+# 
+name: Id
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 31 CE 00 00
+# 
+name: 8_aspect
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 8F 70 00 00
+# 
+name: Entrer
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 85 7A 00 00
+# 
+name: Mute
+type: parsed
+protocol: NECext
+address: 83 55 00 00
+command: 93 6C 00 00
